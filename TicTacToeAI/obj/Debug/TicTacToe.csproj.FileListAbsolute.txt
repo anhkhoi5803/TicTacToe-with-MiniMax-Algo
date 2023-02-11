@@ -1,0 +1,11 @@
+D:\Code\CSharp\TicTacToeAI\bin\Debug\TicTacT.exe.config
+D:\Code\CSharp\TicTacToeAI\bin\Debug\TicTacT.exe
+D:\Code\CSharp\TicTacToeAI\bin\Debug\TicTacT.pdb
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.Form1.resources
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.Properties.Resources.resources
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.exe
+D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.pdb

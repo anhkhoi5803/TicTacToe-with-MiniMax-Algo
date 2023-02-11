@@ -1,0 +1,11 @@
+D:\Code\CSharp\TicTacT\bin\Debug\TicTacT.exe.config
+D:\Code\CSharp\TicTacT\bin\Debug\TicTacT.exe
+D:\Code\CSharp\TicTacT\bin\Debug\TicTacT.pdb
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.csproj.AssemblyReference.cache
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.csproj.SuggestedBindingRedirects.cache
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.Form1.resources
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.Properties.Resources.resources
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.csproj.GenerateResource.cache
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.exe
+D:\Code\CSharp\TicTacT\obj\Debug\TicTacT.pdb
