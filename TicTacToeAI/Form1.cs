@@ -172,7 +172,7 @@ namespace TicTacT
                     return grid[i] == 1 ? 10 : -10;
             }
 
-            if ((grid[0] == grid[4] && grid[4] == grid[8]) || (grid[2] == grid[4] && grid[4] == grid[6]))
+            if (((grid[0] == grid[4] && grid[4] == grid[8]) || (grid[2] == grid[4] && grid[4] == grid[6])) && grid[4] != 0)
                 return grid[4] == 1 ? 10 : -10;
 
 
@@ -212,7 +212,7 @@ namespace TicTacT
                         grid[i] = 0;
                     }
                 }
-                return best;
+                return best -depth;
             }
             else
             {
@@ -229,17 +229,18 @@ namespace TicTacT
                         grid[i] = 0;
                     }
                 }
-                return best;
+                return best+depth;
             }
         }
 
         void moveByAI()
         {
-            int best = int.MinValue;
+            int best = int.MaxValue;
             int move = -1;
 
             for(int i =0; i<9;i++)
             {
+               // MessageBox.Show("" + i);
                 if (grids[i]==0)
                 {
                     grids[i] = 2;
@@ -247,12 +248,12 @@ namespace TicTacT
                     int locValue = miniMax(grids, 0, true);
 
                     grids[i] = 0;
-
-                    if(locValue > best)
+                    //MessageBox.Show("" + i +" "+ locValue +" "+ best);
+                    if (locValue < best)
                     {
                         move = i;
                         best = locValue;
-                        MessageBox.Show(""+i);
+                       // MessageBox.Show(""+i+best);
                     }
                 }
             }
@@ -268,6 +269,8 @@ namespace TicTacT
             label2.Text= string.Empty;
             label4.Text = string.Empty;
             MessageBox.Show("Score is reseted");
+            pointO = 0;
+            pointX= 0;
 
         }
 

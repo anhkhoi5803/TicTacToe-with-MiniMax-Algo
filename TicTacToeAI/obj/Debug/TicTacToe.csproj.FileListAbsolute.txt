@@ -9,3 +9,14 @@ D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.GenerateResource.cache
 D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.exe
 D:\Code\CSharp\TicTacToeAI\obj\Debug\TicTacT.pdb
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\bin\Debug\TicTacT.exe.config
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\bin\Debug\TicTacT.exe
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\bin\Debug\TicTacT.pdb
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacT.Form1.resources
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacT.Properties.Resources.resources
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacT.exe
+C:\Users\autok\Source\Repos\anhkhoi5803\TicTacToe-with-MiniMax-Algo\TicTacToeAI\obj\Debug\TicTacT.pdb
